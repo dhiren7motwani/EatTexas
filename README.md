@@ -7,7 +7,6 @@ EaTexas is a system designed to manage orders and deliveries for a restaurant. T
 1. [Features](#features)
 2. [Installation](#installation)
 3. [Usage](#usage)
-4. [System Design](#system-design)
 5. [Contributing](#contributing)
 6. [License](#license)
 7. [Contact](#contact)
@@ -56,14 +55,6 @@ To run the project locally:
 python main.py
 ```
 
-## System Design
-
-The system is broken into key components:
-
-- [Order and Reservation System](https://lucid.app/lucidchart/order-reservation)
-- [Delivery Management System](https://lucid.app/lucidchart/delivery-management)
-
-Additional system design resources can be found in the repository links.
 
 
 Youtube video link: https://www.youtube.com/watch?v=uDrWZBMBmZo
@@ -76,12 +67,6 @@ System design:
        
 [Delivery management system](https://lucid.app/lucidchart/fdf32f98-2848-41d0-a753-924b5628c602/edit?viewport_loc=-645%2C-1585%2C5744%2C3356%2C0_0&invitationId=inv_898eabb4-eacb-4096-9ab9-02f73389bdda)
 ![image](https://github.com/sash7410/eat_texas/assets/40574545/2a75cbca-0e62-4042-b9e8-5319ad80e817)
-
-
-
-Deployments:
-    [orders page](https://kocavs.github.io/Cloud_Project/)                                                                                                                                                            
-    [delivery page](https://kocavs.github.io/eat-nyc-delivery/)
 
 
 
